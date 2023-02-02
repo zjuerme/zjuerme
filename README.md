@@ -3,22 +3,14 @@
 ## About ME
 
 - I'm zjuerme
-  -  an graduate student in Zhejiang University, major in Computer Science
-  - 💻Infrastructure Develop Summer Intern in Alibaba
-  - Study Knowledge Graphs and NLP in ZJU-KG lab.
-- Learning open courses released by Stanford/MIT/CMU
+  -  an undergraduate student in Zhejiang University, major in Computer Science
 - Blog: [link here](https://zjuerme.github.io/)
-- Notebook: [link here](https://zjuerme.github.io/My-CS-Notebook/)
-- Bilibili: [link here](https://space.bilibili.com/108167420)(Continue to share my daily thinks during learning)
+- CV:
 
 ## Skill & Interest
 
-- Languages：C/C++, Java, Python, LaTeX, Markdown, PPT
-- Full-Stack **Web Development**(but naive)
+- Languages：C/C++, Java, Python, LaTeX, Markdown, Vue
 - New hand in Machine Learning & Deep Learning
-
-## Publication
-- Knowledge Graph Completion with Pre-trained Multimodal Transformer and Twins Negative Sampling. (Accepted by [KDD-2022 Undergraduate consortium](https://kdd.org/kdd2022/), [Arxiv](https://arxiv.org/abs/2209.07084))
 
 ## Stats
 
