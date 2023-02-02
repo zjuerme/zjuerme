@@ -5,7 +5,7 @@
 - I'm zjuerme
   -  an undergraduate student in Zhejiang University, major in Computer Science
 - Blog: [link here](https://zjuerme.github.io/)
-- CV: [link here](https://github.com/zjuerme/zjuerme.github.io/blob/main/CV.pdf)
+- CV: [link here](chrome-extension://bocbaocobfecmglnmeaeppambideimao/pdf/viewer.html?file=https%3A%2F%2Fzjuerme.github.io%2FCV.pdf)
 
 ## Skill & Interest
 
