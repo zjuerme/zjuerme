@@ -2,15 +2,6 @@
 
 ## About ME
 
-- I'm zjuerme
-  -  an undergraduate student in Zhejiang University, major in Computer Science
-- Blog: [link here](https://zjuerme.github.io/)
-- CV: [link here](CV.pdf)
-
-## Skill & Interest
-
-- New hand in Machine Learning & Deep Learning
-
 <h3 align="left">Languages and Tools</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
     <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
